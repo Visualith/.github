@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
 Visualith
-</p>
+</h1>
 <h3 align="center">Zero to Prod in Minutes</h3>
 <p align="center">Platform as a service ⚡</p>
 
